@@ -39,15 +39,15 @@ For the DML's to work we need to cluster on a given category. The only one that 
 The range to be used could be found by looking at the distribution of prices of all cars in the dataset
 Find the min and max prices too
 
-So for next week: 
+### So for next week: 
 - [ ] Decide on a price point, and implement range
 - [ ] Finish Preprocessing
 - [ ] Then implement Keras DML -> 'Image similarity estimation using a Siamese Network with a triplet loss'
 - [ ] Visualise Clusters
-If there is time: 
+### If there is time: 
 - [ ] Create a baseline accuracy with kNN just on the non-clustered dataset
 
-For the explainable AI
+### For the explainable AI
 Most Basic:
 - [ ] Could list the similar cars in the cluster
 
