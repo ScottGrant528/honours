@@ -11,7 +11,7 @@
  <b> Stage 1. </b>
 - [x] Obtained a dataset
 - [x] Explored the dataset
-- [ ] Pre-Processed the dataset 
+- [X] Pre-Processed the dataset 
 - [ ] Research and Implement Triplet-Based DML's from Keras Libriary 
 - [ ] Implement kNN to select the nearest neighbor 
 - [ ] Apply Explainable AI methods
