@@ -12,15 +12,14 @@
 - [x] Obtained a dataset
 - [x] Explored the dataset
 - [X] Pre-Processed the dataset 
-- [ ] Research and Implement Triplet-Based DML's from Keras Libriary 
-- [ ] Implement kNN to select the nearest neighbor 
-- [ ] Apply Explainable AI methods
+- [X] Research and Implement Triplet-Based DML's from Keras Libriary 
+- [X] Implement both kNN models
 
  <b> Stage 2. </b>
 - [ ] Select more datasets
 - [ ] Explore datasets and see if possible to combine multiple 
 - [ ] Apply a RF algorithm to the dataset/s 
-- [ ] Use Compare results of the DMLs vs RF 
+- [ ] Use Compare results of the DMLs vs RF vs kNN
 - [ ] Fine tune algorithms and\or insights into the AI reasoning for prices
 
  <b> Stage 3. </b>
